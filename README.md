@@ -1,0 +1,2 @@
+# goslackcheck
+go slack
